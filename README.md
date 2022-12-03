@@ -3,7 +3,7 @@
 🍓<strong>关于我</strong>
 
 · 🔭 主要使用：C/C++<br />
-· 🌱 Twitter：NULL<br />
+· 🌱 Twitter：Matinal46857039<br />
 · 📫 联系方式：1439984755@qq.com<br />
 · 📫 CSDN：清晨喝碗粥<br />
 · 👯 关于我：喜欢算法，ACMer，小白一个，干什么什么都不会<br />
